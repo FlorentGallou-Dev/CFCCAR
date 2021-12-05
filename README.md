@@ -4,7 +4,8 @@
 ----
 ## INDEX
 ----
-> 1. UseCase for Admin part
-> 2. UseCase for User part
-> 3. 
+> 1. UseCase for Admin part             -> https://florentgallou-dev.github.io/CFCCAR/CFCCAR-UseCase-Admin.html
+> 2. UseCase for Registred User part    -> https://florentgallou-dev.github.io/CFCCAR/CFCCAR-UseCase-RegisterUser.html
+> 3. UseCase for Users                  -> https://florentgallou-dev.github.io/CFCCAR/CFCCAR-UseCase-User.html
+> 4. Functional Tree for Admin          ->https://florentgallou-dev.github.io/
 ----
